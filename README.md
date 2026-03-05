@@ -31,4 +31,3 @@ This project implements a machine learning model using Python to analyze pattern
 ## Results
 The trained model was evaluated using standard machine learning metrics such as accuracy, precision, recall, or RMSE depending on the task.
 
-## Project Structure
