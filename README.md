@@ -9,14 +9,26 @@ This project proposes using a machine learning model based on real surveys carri
 
 ---
 
+# Machine Learning Model
 
-# 2.Objective
+## Overview
+This project implements a machine learning model using Python to analyze patterns in data and generate predictions. The project focuses on data preprocessing, feature engineering, model training, and evaluation.
 
-Train a supervised machine learning algorithm to estimate the likelihood of an employee needing mental health treatment based on professional and personal profile information collected through OSMI surveys.
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
 
-### 2.1 Specific objectives:
-- Study real data of mental health within a technological environment.
-- Clean and transform the data for analysis.
-- Train multiple supervised models.
-- Analyze their performance using tools such as GridSearchCV and metrics such as Accuracy and ROC-AUC.
-- Make inferences and draw actionable conclusions.
+## Workflow
+1. Data loading and exploration
+2. Data preprocessing and cleaning
+3. Feature engineering
+4. Model training
+5. Model evaluation
+
+## Results
+The trained model was evaluated using standard machine learning metrics such as accuracy, precision, recall, or RMSE depending on the task.
+
+## Project Structure
